@@ -23,6 +23,7 @@ java-performance-notes
 #### Three types of Performance Testing
 
 * Microbenchmarks
+  * A microbenchmark is a test designed to measure a very small unit of performance. e.g. the time to call a synchronized method versus a nonsynchronized method
 * Macrobenchmarks
 * Mesobenchmarks
 
