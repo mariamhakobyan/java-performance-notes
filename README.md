@@ -18,6 +18,14 @@ java-performance-notes
 
 * Test a Real Application
   * The first principle is that testing should occur on the actual product in the way the product will be used.
+  
+
+#### Three types of Performance Testing
+
+* Microbenchmarks
+* Macrobenchmarks
+* Mesobenchmarks
+
 
 
  
