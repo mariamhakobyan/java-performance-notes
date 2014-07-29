@@ -14,6 +14,9 @@ java-performance-notes
    
 ### Chapter 2: An Approach to Performance Testing
 
+* Test a Real Application
+  * The first principle is that testing should occur on the actual product in the way the product will be used.
+
 
  
   
