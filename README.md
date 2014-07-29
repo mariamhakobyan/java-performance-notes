@@ -1,7 +1,7 @@
 java-performance-notes
 ======================
 
-Java Performance Notes
+### Chapter 1: Introduction
 
 
 * A good algorithm is the most important thing when it comes to fast performance.
@@ -11,5 +11,9 @@ Java Performance Notes
 * Ockham's razor is a principle from philosophy. 
   * Suppose there exist two explanations for an occurrence. In this case the simpler one is usually better. 
   * Another way of saying it is that the more assumptions you have to make, the more unlikely an explanation is.
+   
+### Chapter 2: An Approach to Performance Testing
+
+
  
   
