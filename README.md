@@ -25,7 +25,7 @@ java-performance-notes
 * Microbenchmarks
   * A microbenchmark is a test designed to measure a very small unit of performance. 
     * e.g. the time to call a synchronized method versus a nonsynchronized method
-  * Microbenchmarks may seem like a good idea, but they are very difficult to write cor‐ rectly.
+  * Microbenchmarks may seem like a good idea, but they are very difficult to write correctly.
 * Macrobenchmarks
 * Mesobenchmarks
 
